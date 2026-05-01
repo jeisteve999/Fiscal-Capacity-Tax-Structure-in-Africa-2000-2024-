@@ -60,7 +60,9 @@ NonTaxRes → Non-tax revenue from natural resources (% of GDP)
 
 These charts show the evolution of three main tax categories:
 
-Dashboard 1 : https://github.com/jeisteve999/Fiscal-Capacity-and-Tax-Structure-in-African-Countries-2000-2024-/blob/main/dashboard%201.png
+## Dashboard 1 – Tax Structure Evolution
+
+![Dashboard 1]([dashboard%201.png](https://github.com/jeisteve999/Fiscal-Capacity-and-Tax-Structure-in-African-Countries-2000-2024-/blob/main/dashboard%201.png))
 
 Income taxes
 Consumption taxes (sales and production)
@@ -90,7 +92,9 @@ African tax systems are gradually shifting toward consumption-based taxation, wh
 
 # 2. Detailed Tax Composition
 
-Dashboard 2 : https://github.com/jeisteve999/Fiscal-Capacity-and-Tax-Structure-in-African-Countries-2000-2024-/blob/main/dashboard%202.png
+## Dashboard 2 – Tax Composition
+
+![Dashboard 2](https://github.com/jeisteve999/Fiscal-Capacity-and-Tax-Structure-in-African-Countries-2000-2024-/blob/main/dashboard%202.png)
   
 -Sales and Production Taxes
 
@@ -124,7 +128,9 @@ Tax revenues from extractive industries are relatively smaller
 
 # 3. Cross-Country Tax Structure
 
-Dashboard 3: https://github.com/jeisteve999/Fiscal-Capacity-and-Tax-Structure-in-African-Countries-2000-2024-/blob/main/dashboard%203.png
+## Dashboard 3 – Cross-Country Tax Structure
+
+![Dashboard 3](https://github.com/jeisteve999/Fiscal-Capacity-and-Tax-Structure-in-African-Countries-2000-2024-/blob/main/dashboard%203.png)
 
 This dashboard highlights the Top 10 countries by tax type (% of GDP) across three categories:
 
