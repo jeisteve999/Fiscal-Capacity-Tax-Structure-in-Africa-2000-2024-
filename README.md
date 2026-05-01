@@ -137,7 +137,7 @@ This dashboard highlights the Top 10 countries by tax type (% of GDP) across thr
 
 Countries like Eritrea and Equatorial Guinea show the highest shares.
 
-Interpretation:
+-Interpretation:
 
 Indicates strong reliance on corporate taxation
 Often linked to resource-based or concentrated economies
@@ -193,21 +193,14 @@ Property taxes are largely underdeveloped
 -5. Policy Recommendations
 
 Strengthen Direct Taxation
-
 Improve income tax systems
 Broaden the tax base
-
 Develop Property Taxation
-
 Digitize land registries
 Improve valuation frameworks
-
 Reduce Resource Dependence
-
 Diversify revenue sources
-
 Enhance Tax Administration
-
 Invest in digital systems
 Improve transparency and efficiency
 
