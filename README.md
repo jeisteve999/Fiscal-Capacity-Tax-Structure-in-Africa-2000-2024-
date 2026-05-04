@@ -71,7 +71,7 @@ Property taxes
 Key Insights
 
 -Consumption Taxes (Sales & Production)
-Show a clear and steady upward trend (≈4.0% → ≈5.5% of GDP), indicating an increasing reliance on indirect taxation such as VAT. This suggests a shift toward more stable and easier-to-collect revenue sources.
+Show a clear and steady upward trend (from 4.0% to 5.5% of GDP), indicating an increasing reliance on indirect taxation such as VAT. This suggests a shift toward more stable and easier-to-collect revenue sources.
 
 -Income Taxes
 Exhibit higher volatility compared to consumption taxes, with moderate growth until around 2012 followed by relative stabilization. This pattern reflects sensitivity to macroeconomic conditions such as employment levels and income fluctuations.
