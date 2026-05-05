@@ -61,7 +61,7 @@ Revenue mobilization studies
 
 These charts show the evolution of three main tax categories:
 
-## Dashboard 1 – Tax Structure Evolution
+## Dashboard Tax Revenue Analysis
 
 ![Dashboard 1](https://github.com/jeisteve999/Tax-Revenue-Analysis-in-Africa/blob/main/dashboard.bi.png)
 
